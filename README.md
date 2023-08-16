@@ -6,8 +6,9 @@ Repository ini berisi pengalaman belajarku di Dicoding
 Belajar kelas memulai pemprograman java sebesar 21%
 
   * Belajar Tentang apa itu Java dan alasan menggunakannya
+  * Penggunaan Java
 
-15 Juni 2021
+17 Agustus 2023
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
