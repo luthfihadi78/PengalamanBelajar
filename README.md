@@ -1,14 +1,14 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajarku di Dicoding
 
-16 Agustus 2023
+**16 Agustus 2023**
 
 Belajar kelas memulai pemprograman java sebesar 21%
 
-  * Belajar Tentang apa itu Java dan alasan menggunakannya
-  * Penggunaan Java
+  * Belajar Tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-17 Agustus 2023
+**17 Agustus 2023** 
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
@@ -17,3 +17,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+
